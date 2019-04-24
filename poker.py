@@ -1,3 +1,4 @@
+#Poker simulator
 
 from random import *
 import matplotlib.pyplot as plt
